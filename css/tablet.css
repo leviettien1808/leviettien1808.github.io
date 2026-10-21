@@ -1,0 +1,15 @@
+@media (min-width: 576px) and (max-width: 1200px) {
+  /* ---------- BACKGROUND ---------- */
+  #background {
+    display: grid-lanes;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: unset;
+  }
+}
+
+@media (min-width: 576px) {
+  /* ---------- CERTIFICATE ---------- */
+  #certificate .card-container img {
+    width: 200px;
+  }
+}
