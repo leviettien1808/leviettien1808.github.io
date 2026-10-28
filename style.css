@@ -1,0 +1,17 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('project_1.png');
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('project_2.png');
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url('project_3.png');
+}
